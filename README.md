@@ -1,40 +1,54 @@
-# Awesome-CLM-Administrative-Console
+<div align="center">
 
-## Top CLM Administrative Console Ecosystem: Enterprise Governance & Open-Source Tools
+# 📑 Awesome-CLM-Administrative-Console ⚖️
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Tracked Topics](https://img.shields.io/badge/topics-CLM%20%7C%20RBAC%20%7C%20LegalTech-blue.svg)](https://github.com/ishandutta2007/Awesome-CLM-Administrative-Console)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ishandutta2007/Awesome-CLM-Administrative-Console/blob/main/README.md#how-to-contribute)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-CLM-Administrative-Console)
+### 🏢 Top CLM Administrative Console Ecosystem: Enterprise Governance & Open-Source Tools 🚀
 
-> A curated directory of premier **SaaS platforms** and **open-source GitHub projects** for **Contract Lifecycle Management (CLM) Administrative Consoles**. Master role-based access control (RBAC), multi-tenant administration, workflow routing rules, audit logging, and contract governance.
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-CLM-Administrative-Console"><img src="https://img.shields.io/badge/topics-CLM%20%7C%20RBAC%20%7C%20LegalTech-blue.svg" alt="Tracked Topics"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-CLM-Administrative-Console/blob/main/README.md#how-to-contribute"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions Welcome"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-CLM-Administrative-Console"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"/></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
----
+<br/>
+<br/>
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Comparative Architectural Matrix](#comparative-architectural-matrix)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-- [Star History](#-star-history)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome CLM Administrative Console Banner" width="100%" />
+</p>
 
----
+> 🛡️ A curated directory of premier **SaaS platforms** and **open-source GitHub projects** for **Contract Lifecycle Management (CLM) Administrative Consoles**. Master role-based access control (RBAC), multi-tenant administration, workflow routing rules, audit logging, and enterprise contract governance. 📜✨
 
-## Sector Overview & Market Dynamics
-
-The global Contract Lifecycle Management (CLM) software market size is estimated at approximately **$3.3 billion to $3.7 billion**, expanding rapidly at a compound annual growth rate (**CAGR**) of roughly **11.5% to 13.5%** driven by generative AI adoption, automated compliance obligations, and enterprise digital transformations. 
-
-The sector remains **moderately to highly fragmented** rather than a "winner-take-all" monopoly: horizontal enterprise stalwarts (DocuSign, SAP, Conga) and category-defining pure-play titans (Icertis, Ironclad) dominate Global 2000 multi-tenant governance, while specialized agile vendors (PandaDoc, Concord) and emerging self-hosted open-source solutions capture mid-market, privacy-sensitive, and developer-first deployments.
+</div>
 
 ---
 
-## SaaS/Hosted Platforms
+## 📑 Table of Contents
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏛️ Comparative Architectural Matrix](#️-comparative-architectural-matrix)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#️-disclaimer)
+- [☕ Support](#-support)
+- [⭐ Star History](#-star-history)
 
-The table below compiles industry-leading commercial CLM administrative consoles, ranked descending by estimated company scale (valuation / market capitalization or annual revenue).
+---
 
-| Product | Company Scale (Valuation / Revenue) | Starting Pricing (Specific Tier) | Free Tier / Trial Limits | Key Administrative & Console Capabilities |
+## 🌐 Sector Overview & Market Dynamics
+
+📊 The global Contract Lifecycle Management (CLM) software market size is estimated at approximately **$3.3 billion to $3.7 billion**, expanding rapidly at a compound annual growth rate (**CAGR**) of roughly **11.5% to 13.5%** driven by generative AI adoption, automated compliance obligations, and enterprise digital transformations. 
+
+🧩 The sector remains **moderately to highly fragmented** rather than a "winner-take-all" monopoly: horizontal enterprise stalwarts (DocuSign, SAP, Conga) and category-defining pure-play titans (Icertis, Ironclad) dominate Global 2000 multi-tenant governance, while specialized agile vendors (PandaDoc, Concord) and emerging self-hosted open-source solutions capture mid-market, privacy-sensitive, and developer-first deployments.
+
+---
+
+## 💼 SaaS/Hosted Platforms
+
+The table below compiles industry-leading commercial CLM administrative consoles, ranked descending by estimated company scale (valuation / market capitalization or annual revenue). 🏢📈
+
+| 🏷️ Product | 💰 Company Scale (Valuation / Revenue) | 🏷️ Starting Pricing (Specific Tier) | ⏳ Free Tier / Trial Limits | ⚙️ Key Administrative & Console Capabilities |
 |:---|:---|:---|:---|:---|
 | **[DocuSign CLM Admin](https://www.docusign.com/)** | ~$15.0B Market Cap / ~$3.36B ARR | Custom annual contracts (Mid-market configs typically start ~$20,000–$50,000/year; base eSign starts $10/user/mo) | 30-day free trial (standard eSign/agreement cloud features); custom guided demo for enterprise CLM console | Three core permission profiles (CLM Admin, CLM User, CLM Viewer); decoupled organization user provisioning, custom permission profiles, and automated document workflow routing. |
 | **[Icertis Admin Console](https://www.icertis.com/)** | ~$5.0B Valuation / ~$350M ARR | Enterprise deployments typically start ~$100,000–$300,000/year (custom annual agreement based on scope and seats) | No free tier or self-serve trial (0 trial days); interactive custom demo provided via enterprise sales consultation | Enterprise RBAC governance, personalized executive dashboards, clause & template library administration, AI action audit logs, and complex rule-based approval chains. |
@@ -49,11 +63,11 @@ The table below compiles industry-leading commercial CLM administrative consoles
 
 ---
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-Self-hosted and community-driven contract lifecycle management engines, document intelligence frameworks, and electronic agreement tools. Sorted descending by GitHub stargazers.
+Self-hosted and community-driven contract lifecycle management engines, document intelligence frameworks, and electronic agreement tools. Sorted descending by GitHub stargazers. 🌟💻
 
-| Project | Stars | Tech Stack & Architecture | Administrative, RBAC & Console Highlights |
+| 📦 Project | ⭐ Stars | 🛠️ Tech Stack & Architecture | 🔐 Administrative, RBAC & Console Highlights |
 |:---|:---|:---|:---|
 | **[Documenso](https://github.com/documenso/documenso)** | [![Documenso Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | TypeScript, Next.js, Prisma, PostgreSQL | Modern, open-source document signing and workflow governance infrastructure; team role management, granular access scopes, audit trails, and multi-tenant organization settings. |
 | **[OpenSign](https://github.com/OpenSignLabs/OpenSign)** | [![OpenSign Stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers) | Node.js, React, MongoDB / PostgreSQL, Docker | Full-featured open-source digital signature and agreement solution with admin console, user role controls, multi-organization tenant switching, and tamper-proof PDF audit certificates. |
@@ -69,9 +83,9 @@ Self-hosted and community-driven contract lifecycle management engines, document
 
 ---
 
-## Comparative Architectural Matrix
+## 🏛️ Comparative Architectural Matrix
 
-| Feature | Enterprise SaaS (Icertis, DocuSign, Ironclad) | Mid-Market SaaS (Concord, PandaDoc) | Open-Source Self-Hosted (draftLegal, OpenContracts, Documenso) |
+| 🔍 Feature | 🏢 Enterprise SaaS (Icertis, DocuSign, Ironclad) | 🚀 Mid-Market SaaS (Concord, PandaDoc) | 💻 Open-Source Self-Hosted (draftLegal, OpenContracts, Documenso) |
 |:---|:---|:---|:---|
 | **Deployment Model** | Multi-tenant SaaS / Virtual Private Cloud | Multi-tenant Public Cloud | On-premises, Bare Metal, Docker Compose, Kubernetes |
 | **RBAC Granularity** | Field-level masking, layered user groups, conditional routing | Role presets (Admin, Member, Viewer, Manager) | Database-level RBAC, custom claims, or Keycloak/OIDC integration |
@@ -81,32 +95,37 @@ Self-hosted and community-driven contract lifecycle management engines, document
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-We welcome additions, updates, and architectural corrections from the community!
+We welcome additions, updates, and architectural corrections from the community! 💡✨
 
-1. **Fork** this repository.
-2. Create a new branch: `git checkout -b feature/add-new-clm-tool`.
-3. Add your entry to `README.md` following the established table structure.
+1. 🍴 **Fork** this repository.
+2. 🌿 Create a new branch: `git checkout -b feature/add-new-clm-tool`.
+3. 📝 Add your entry to `README.md` following the established table structure.
    - For **SaaS**: Include product name, scale/valuation, specific starting tier pricing, explicit trial limits, and admin console features.
    - For **Open-Source**: Provide name, social star badge linked to `/stargazers`, tech stack, and administrative capabilities.
-4. Verify all Markdown links and badge syntax.
-5. Submit a **Pull Request** detailing why the tool should be added.
+4. 🔍 Verify all Markdown links and badge syntax.
+5. 🚀 Submit a **Pull Request** detailing why the tool should be added.
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
-- This repository is a **community-curated index** created for educational, architectural, and evaluation purposes; it does not constitute an official endorsement of any vendor or codebase.
-- CLM administrative consoles handle mission-critical, confidential legal contracts and access credentials. Always validate role hierarchies, enforce multi-factor authentication (MFA), and perform security audits before production rollout.
+- 📌 This repository is a **community-curated index** created for educational, architectural, and evaluation purposes; it does not constitute an official endorsement of any vendor or codebase.
+- 🔒 CLM administrative consoles handle mission-critical, confidential legal contracts and access credentials. Always validate role hierarchies, enforce multi-factor authentication (MFA), and perform security audits before production rollout.
 
 ---
 
-## ⭐ Star History
+## ☕ Support
 
-<a href="https://star-history.com/#ishandutta2007/Awesome-CLM-Administrative-Console&Timeline" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-CLM-Administrative-Console_growth.svg">
-    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-CLM-Administrative-Console_growth.svg">
-  </picture>
-</a>
+Thank you for exploring and utilizing the **Awesome CLM Administrative Console** directory! If this ecosystem guide and benchmark have saved you time or aided your architectural decisions, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your appreciation and help others discover it.
+- 🍴 **Fork** and contribute new tools or architectural refinements.
+- 📢 **Share** this resource with your colleagues, legal operations engineers, and developer communities.
+- 💖 **Sponsor / Buy a Coffee**: Support continuous open-source maintenance and research directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-CLM-Administrative-Console&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-CLM-Administrative-Console&type=date&legend=top-left)
