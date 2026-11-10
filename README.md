@@ -71,3 +71,12 @@ Star the repo if you find it useful!
 
 **Made for legal operations administrators, CLM platform engineers, contract managers, and organizations building governed contract infrastructure.**  
 Let's make CLM administration more open, granular, and auditable.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-CLM-Administrative-Console&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-CLM-Administrative-Console_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-CLM-Administrative-Console_growth.svg">
+  </picture>
+</a>
