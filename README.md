@@ -67,7 +67,7 @@ The table below compiles industry-leading commercial CLM administrative consoles
 
 Self-hosted and community-driven contract lifecycle management engines, document intelligence frameworks, and electronic agreement tools. Sorted descending by GitHub stargazers. 🌟💻
 
-| 📦 Project | ⭐ Stars | 🛠️ Tech Stack & Architecture | 🔐 Administrative, RBAC & Console Highlights |
+| 📦 Project | ⭐ GitHub_Stars | 🛠️ Tech Stack & Architecture | 🔐 Administrative, RBAC & Console Highlights |
 |:---|:---|:---|:---|
 | **[Documenso](https://github.com/documenso/documenso)** | [![Documenso Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | TypeScript, Next.js, Prisma, PostgreSQL | Modern, open-source document signing and workflow governance infrastructure; team role management, granular access scopes, audit trails, and multi-tenant organization settings. |
 | **[OpenSign](https://github.com/OpenSignLabs/OpenSign)** | [![OpenSign Stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers) | Node.js, React, MongoDB / PostgreSQL, Docker | Full-featured open-source digital signature and agreement solution with admin console, user role controls, multi-organization tenant switching, and tamper-proof PDF audit certificates. |
@@ -103,7 +103,7 @@ We welcome additions, updates, and architectural corrections from the community!
 2. 🌿 Create a new branch: `git checkout -b feature/add-new-clm-tool`.
 3. 📝 Add your entry to `README.md` following the established table structure.
    - For **SaaS**: Include product name, scale/valuation, specific starting tier pricing, explicit trial limits, and admin console features.
-   - For **Open-Source**: Provide name, social star badge linked to `/stargazers`, tech stack, and administrative capabilities.
+   - For **Open-Source**: Provide name, social Stars_Badge linked to `/stargazers`, tech stack, and administrative capabilities.
 4. 🔍 Verify all Markdown links and badge syntax.
 5. 🚀 Submit a **Pull Request** detailing why the tool should be added.
 
@@ -129,3 +129,12 @@ Thank you for exploring and utilizing the **Awesome CLM Administrative Console**
 
 ##  Star History
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-CLM-Administrative-Console&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-CLM-Administrative-Console&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-CLM-Administrative-Console&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-CLM-Administrative-Console_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-CLM-Administrative-Console_growth.svg">
+  </picture>
+</a>
